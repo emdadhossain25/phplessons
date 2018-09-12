@@ -15,6 +15,8 @@ function newCalc($x){
     echo "Here is 75% of what you wrote: ".$newnumber."<br>";
 }
 
+
+//calling the method
 newCalc($x);
 newCalc($a);
 ?>
