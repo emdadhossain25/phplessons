@@ -1,3 +1,7 @@
+<?php
+include 'functions/user-functions.php';
+?>
+
 <!DOCTYPE html>
 <html>
 <body>
