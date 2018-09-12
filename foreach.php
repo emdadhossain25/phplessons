@@ -1,6 +1,9 @@
 <?php
 
-$array = array("emdad","as","herro");
+$array = array("emdad",12,"herro");
+
+
+echo $array[sizeof($array)-1]."<br>";
 
 foreach ($array as $item) {
 
